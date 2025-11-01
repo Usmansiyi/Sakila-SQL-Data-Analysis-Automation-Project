@@ -79,7 +79,9 @@ Outputs results ordered by best-performing store.
 
 ```sql
 use sakila;
--- 1. List all films — with title, release year, and rental rate.
+```
+**1. List all films — with title, release year, and rental rate.**
+```sql
 select title,
 		release_year,
         rental_rate 
