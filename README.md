@@ -434,18 +434,8 @@ DELIMITER ;
 **26. Event Scheduler
 Create an event that runs monthly to archive all rentals older than 3 years.**
 ```sql
-CREATE TABLE IF NOT EXISTS rental_archive (
-    archive_id INT AUTO_INCREMENT PRIMARY KEY,
-    rental_id INT,
-    rental_date DATETIME,
-    inventory_id INT,
-    customer_id INT,
-    return_date DATETIME,
-    staff_id INT,
-    last_update TIMESTAMP,
-    deleted_at DATETIME DEFAULT NOW(),
-    archived_by_event TINYINT DEFAULT 1
-);
+Alter TABLE  rental_archive
+   add column archived_by_event TINYINT DEFAULT 1;
  DELIMITER $$
  drop event if exists old_rentals$$
  create event old_rentals
