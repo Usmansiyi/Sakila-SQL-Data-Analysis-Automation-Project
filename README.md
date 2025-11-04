@@ -1,10 +1,13 @@
-# Project Title: Sakila SQL Data Analysis & Automation Project
+# Project Title: Sakila SQL + Power BI Analytics Project 
+
+
+Use MySQL (Sakila database) for data preparation, cleaning, and automation
+then connect Power BI for interactive reporting and business storytelling
 
 ## Project Overview
-A full SQL project journey from beginner analytics to advanced automation using the Sakila DVD Rental dataset.
+A full SQL project journey from beginner analytics to advanced automation using the Sakila DVD Rental dataset. then connect Power BI for interactive reporting and business storytelling
 
 This project explores, analyzes, and automates business insights using the Sakila sample database.
-It progresses from simple SQL queries to advanced techniques such as stored procedures, triggers, and event scheduling, simulating real-world data engineering and analytics workflows.
 
 <img width="1278" height="720" alt="sakila" src="https://github.com/user-attachments/assets/4ba305b8-f6a1-4493-b318-5ed7c074d47f" />
 
@@ -66,6 +69,21 @@ Create an index on rental (rental_date) and compare query performance before/aft
 Create a stored procedure sp_store_performance_report() that:
 Calculates revenue, number of rentals, active customers
 Outputs results ordered by best-performing store.
+
+**4. Connect Power BI to MySQL**
+Steps;
+- Open Power BI Desktop → Home → Get Data → MySQL Database
+- Enter Server name (e.g., localhost) and Database name (sakila)
+- Provide credentials (MySQL username/password)
+- Select these tables (and/or views or procedures):
+-payment, rental, customer, film, store, category, inventory
+click Transform Data to open Power Query Editor.
+
+**5.Data Transformation (Power Query)**
+   Cleaning & Modeling
+
+**6.Building Power BI Dashboard**
+
 
 
  
