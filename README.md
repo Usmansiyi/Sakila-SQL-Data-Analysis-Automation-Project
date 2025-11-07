@@ -589,7 +589,8 @@ call sp_store_performance_report();
 
 **PAGE 2: Revenue & Store Performance**
 
-<img width="1034" height="590" alt="Screenshot 2025-11-06 230513" src="https://github.com/user-attachments/assets/b2d1c944-bc0e-4b2d-9c35-cd22b435b061" />
+<img width="1023" height="580" alt="Screenshot 2025-11-06 235510" src="https://github.com/user-attachments/assets/f48bf43f-e264-469b-aab9-61103ad0b296" />
+
 
 
 **PAGE 3: Customer Analytics & Loyalty**
