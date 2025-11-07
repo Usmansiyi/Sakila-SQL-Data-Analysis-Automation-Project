@@ -88,7 +88,7 @@ click Transform Data to open Power Query Editor.
 
  
 ## Project Structure
-
+   **SQL**
 ### 1. BEGINNER LEVEL DATA EXPLORATION
 <img width="299" height="168" alt="download" src="https://github.com/user-attachments/assets/d86024d4-d254-48bf-a892-78e85a8b5279" />
 
@@ -579,12 +579,22 @@ create procedure sp_store_performance_report()
 DELIMITER ;
 call sp_store_performance_report();
 ```
+
+
+**Power BI**
+### 1. Build Power BI Dashboards
+**PAGE 1: Summary / Overview Dashboard**
+<img width="1017" height="576" alt="Screenshot 2025-11-07 002924" src="https://github.com/user-attachments/assets/5e01383a-c6a6-40b5-8388-2daec5d6b66e" />
+
 ## Reports
 
 - **Database Schema**: Detailed table structures and relationships.
 - **Data Analysis**:Top 10 Customers by Revenue, Monthly Revenue Growth per Store, Category-wise Film Rental Frequency,
   					Overdue Rentals & Customer Retention and Automated Monthly Archival Event.
-- **Summary Reports**: Aggregated data on high-demand books and employee performance.
+- **Summary Reports**:  Balance staff performance across branches.
+- 						Sport and sci-fi categories lead in revenue.
+- 						Mid-year peaks due to seasonal demand.
+- 						Popular films enhance engagement.
 
 ## Conclusion
 Overall, the project represents a complete mini–data warehouse lifecycle:
