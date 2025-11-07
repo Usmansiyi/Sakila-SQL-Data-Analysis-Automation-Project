@@ -641,7 +641,7 @@ Extract - Analyze - Automate - Optimize - Report
 
 ## Author - Usman Siyi
 
-This project showcases SQL skills essential for database management and analysis. looking For someone with skills on SQL and data analysis , connect with me through the following channels:
+This project showcases SQL & Power bi skills essential for database management and analysis. looking For someone with skills on SQL and data analysis , connect with me through the following channels:
 
 - **Email**: (nuraensiyi@gmail.com)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/UsmanSiyi)
