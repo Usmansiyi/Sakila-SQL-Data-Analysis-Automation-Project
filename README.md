@@ -582,9 +582,25 @@ call sp_store_performance_report();
 
 
 **Power BI**
-### 1. Build Power BI Dashboards
+### 2. Build Power BI Dashboards
 **PAGE 1: Summary / Overview Dashboard**
+
 <img width="1017" height="576" alt="Screenshot 2025-11-07 002924" src="https://github.com/user-attachments/assets/5e01383a-c6a6-40b5-8388-2daec5d6b66e" />
+
+**PAGE 2: Revenue & Store Performance**
+
+<img width="1034" height="590" alt="Screenshot 2025-11-06 230513" src="https://github.com/user-attachments/assets/b2d1c944-bc0e-4b2d-9c35-cd22b435b061" />
+
+
+**PAGE 3: Customer Analytics & Loyalty**
+
+<img width="1041" height="584" alt="Screenshot 2025-11-06 235031" src="https://github.com/user-attachments/assets/ec26c5e9-7ac5-4079-86cc-f19c6a4e77c5" />
+
+
+**PAGE 4: Film & Category Insights**
+
+<img width="1027" height="576" alt="Screenshot 2025-11-07 001737" src="https://github.com/user-attachments/assets/3fb7b0fa-4f1b-4d93-b0a4-8f378db74670" />
+
 
 ## Reports
 
