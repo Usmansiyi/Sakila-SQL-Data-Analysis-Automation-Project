@@ -9,7 +9,11 @@ A full SQL project journey from beginner analytics to advanced automation using 
 
 This project explores, analyzes, and automates business insights using the Sakila sample database.
 
-<img width="1017" height="576" alt="Screenshot 2025-11-07 002924" src="https://github.com/user-attachments/assets/983caaea-92b1-4e69-a41a-c0fbabd6775e" />
+
+
+
+<img width="1476" height="821" alt="Screenshot 2025-11-07 101354" src="https://github.com/user-attachments/assets/f51d2d01-c402-4df4-96b3-d6ca8d81a61b" />
+
 
 
 
@@ -588,13 +592,15 @@ call sp_store_performance_report();
 
 
 
-<img width="1017" height="576" alt="Screenshot 2025-11-07 002924" src="https://github.com/user-attachments/assets/5e01383a-c6a6-40b5-8388-2daec5d6b66e" />
+<img width="1476" height="821" alt="Screenshot 2025-11-07 101354" src="https://github.com/user-attachments/assets/6cdcdfc5-1199-4591-b2dc-078efb61af8e" />
+
 
 **PAGE 2: Revenue & Store Performance**
 
 
 
-<img width="1023" height="580" alt="Screenshot 2025-11-06 235510" src="https://github.com/user-attachments/assets/f48bf43f-e264-469b-aab9-61103ad0b296" />
+<img width="1462" height="820" alt="Screenshot 2025-11-07 101443" src="https://github.com/user-attachments/assets/3be82211-f7fd-441b-91d3-6094f6b0c891" />
+
 
 
 
@@ -602,15 +608,15 @@ call sp_store_performance_report();
 
 
 
-<img width="1041" height="584" alt="Screenshot 2025-11-06 235031" src="https://github.com/user-attachments/assets/ec26c5e9-7ac5-4079-86cc-f19c6a4e77c5" />
+<img width="1457" height="823" alt="Screenshot 2025-11-07 101518" src="https://github.com/user-attachments/assets/757ae268-6dac-4d8e-8420-14f7ceb5c109" />
+
 
 
 **PAGE 4: Film & Category Insights**
 
 
 
-<img width="1027" height="576" alt="Screenshot 2025-11-07 001737" src="https://github.com/user-attachments/assets/3fb7b0fa-4f1b-4d93-b0a4-8f378db74670" />
-
+<img width="1456" height="819" alt="Screenshot 2025-11-07 101547" src="https://github.com/user-attachments/assets/7949003d-88f9-464f-ad56-663979868c8f" />
 
 
 
