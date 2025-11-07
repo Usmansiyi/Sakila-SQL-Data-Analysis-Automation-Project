@@ -9,7 +9,8 @@ A full SQL project journey from beginner analytics to advanced automation using 
 
 This project explores, analyzes, and automates business insights using the Sakila sample database.
 
-<img width="1278" height="720" alt="sakila" src="https://github.com/user-attachments/assets/4ba305b8-f6a1-4493-b318-5ed7c074d47f" />
+<img width="1017" height="576" alt="Screenshot 2025-11-07 002924" src="https://github.com/user-attachments/assets/983caaea-92b1-4e69-a41a-c0fbabd6775e" />
+
 
 
 
